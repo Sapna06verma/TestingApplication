@@ -5,3 +5,7 @@ fun DemoFile()
 {
     print(DataModel(1, 1))
 }
+fun DemoFileNew()
+{
+    print(DataModel(1, 1))
+}
